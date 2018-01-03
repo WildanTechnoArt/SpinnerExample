@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Basic Android</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+    <string name="masukan_data">Masukan Data</string>
+    <string name="kirim">Kirim</string>
+
+    <string-array name="daftar_makanan">
+
+        <item>Bakso</item>
+        <item>Ayam Goreng</item>
+        <item>Mie Rebus</item>
+        <item>Nasi Padang</item>
+        <item>Ikan Bakar</item>
+        <item>Seblak</item>
+        <item>Gorengan</item>
+        <item>Mie Ayam</item>
+
+    </string-array>
+
+</resources>

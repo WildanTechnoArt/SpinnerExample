@@ -1,0 +1,31 @@
+<resources>
+
+    <style name="Base.Theme.WILDAN_TECHNO_ART" parent="Theme.AppCompat.Light.DarkActionBar">
+
+        <item name="colorPrimary">@color/colorPrimary</item>
+
+        <!--   warna gelap untuk status bar dan contextual app bars -->
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+
+        <!--   theme UI controls seperti checkboxes dan text fields e.g. FloatActionButton -->
+        <item name="colorAccent">@color/colorAccent</item>
+
+        <!--   warna untuk Title Text  -->
+        <item name="android:textColorPrimary">@color/primaryText</item>
+
+        <!--   warna untuk menu overflow icon (tiga titik vertical) -->
+        <item name="android:textColorSecondary">@color/secondaryText</item>
+
+    </style>
+
+    <!-- Base application theme. -->
+    <style name="AppBaseTheme" parent="Base.Theme.WILDAN_TECHNO_ART">
+
+    </style>
+
+    <!-- Application theme. -->
+    <style name="AppTheme" parent="AppBaseTheme">
+
+    </style>
+
+</resources>
